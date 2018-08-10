@@ -1,0 +1,28 @@
+body {
+    background-image: url("noise-background-01.png");
+    
+}
+video {
+    margin: auto;
+}
+.videos {
+    display: flex;
+}
+.video-container {
+    border: 2px solid black;
+    margin: auto;
+}
+.button-container {
+    text-align: center;
+}
+.button-container input{
+    width: 150px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 45px;
+    background-color: burlywood;
+    border-radius: 12px;
+    border: 2px solid grey;
+}
+.button-container input:hover {
+    background-color: bisque;
+}
