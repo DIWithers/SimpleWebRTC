@@ -1,7 +1,7 @@
 ## Quick Reference 
 
 1. Install node
-2. Install dependencies - `$ npm intall`
+2. Install dependencies - `$ npm install`
 3. Navigate to main folder, then `$ node main.js`
 
 ## Notes
